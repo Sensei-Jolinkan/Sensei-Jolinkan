@@ -1,9 +1,9 @@
 ## Hello, I'm Joan 👋
 ---
 
-I'm learning to code at [42](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://42.fr/&ved=2ahUKEwjjyoPFk7KOAxW9K_sDHfMHOwUQFnoECAwQAQ&usg=AOvVaw1Jn4i0LjOUW7B_zcaUisCq)
+I'm learning to code at [42](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://42.fr/&ved=2ahUKEwjjyoPFk7KOAxW9K_sDHfMHOwUQFnoECAwQAQ&usg=AOvVaw1Jn4i0LjOUW7B_zcaUisCq).
 
-I'm actually focused on penultimate projects of common core who is "ft_irc".
+I'm actually focused on penultimate projects of common core which is "ft_irc".
 ---
 <!--
 **Sensei-Jolinkan/Sensei-Jolinkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
