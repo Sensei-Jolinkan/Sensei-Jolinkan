@@ -46,3 +46,9 @@ My final goal is to be a MASTER of Blockchain and IA.
 ### Others
 ![others](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light)
 > Basic knowledge of Docker especially with project INCEPTION.
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Connect with me 📬
+- [x] My [Linkedin](https://www.linkedin.com/in/tudela-joan-735aa02a2/)
+- [x] My email joantudela66@gmail.com
