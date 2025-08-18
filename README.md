@@ -10,6 +10,8 @@ currents goals :
  - complete commom core of 42
  - do personnal projects to improve my knowledge
 
+My final goal is to be a MASTER of Blockchain and IA.
+
 <br>
 
 ## 🧠 Actual learning
