@@ -7,9 +7,10 @@ I'm actually focused on final project of common core which is "ft_transcendence"
 <br>
 <br>
 <br>
-<br>
 ## 🧠 Actual learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 </p>
+
+``` C++ for the last project.```
