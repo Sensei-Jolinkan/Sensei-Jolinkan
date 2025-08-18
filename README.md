@@ -1,7 +1,4 @@
-<p>
-  <strong>Hello, I'm Joan</strong>
-  <img src="https://github.com/jotudela/jotudela/raw/main/gifs/HI.gif" alt="Hello" width="50"/>
-</p>
+# Hello, I'm Joan  <img src="https://github.com/jotudela/jotudela/blob/main/gifs/HI.gif" width="29px">
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
