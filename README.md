@@ -37,10 +37,11 @@ My final goal is to be a MASTER of Blockchain and IA.
 <br>
 
 ### IDE && VCS
-![ide vcs](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,github&theme=light)
+![ide vcs](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,git&theme=light)
 > My main IDE is Visual Studio Code and i am confortable with VIM.
 >
 > I use GIT easily.
+<br>
 
 ### Others
 ![others](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light)
