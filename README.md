@@ -5,10 +5,12 @@ I'm a Computer Science student at [42](https://www.google.com/url?sa=t&source=we
 
 I'm actually focused on final project of common core which is "ft_transcendence".
 <br>
+<br>
 currents goals :
  - complete commom core of 42
  - do personnal projects to improve my knowledge
 
+<br>
 ## 🧠 Actual learning
 
 <p align="left">
