@@ -7,10 +7,14 @@ I'm actually focused on final project of common core which is "ft_transcendence"
 <br>
 <br>
 <br>
+currents goals :
+ - complete commom core of 42
+ - do personnal projects to improve my knowledge
+
 ## 🧠 Actual learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50"/>
 </p>
 
-``` C++ for the last project.```
