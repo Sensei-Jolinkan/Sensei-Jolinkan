@@ -18,3 +18,6 @@ currents goals :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50"/>
 </p>
 
+> C++ for the last project.
+
+Solidity for the last project and personnal projects.
