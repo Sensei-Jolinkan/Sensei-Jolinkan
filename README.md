@@ -9,4 +9,4 @@ I'm actually focused on final project of common core which is "ft_transcendence"
 ## 🧠 Actual learning
 ---
 
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
