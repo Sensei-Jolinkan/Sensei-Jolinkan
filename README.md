@@ -7,7 +7,6 @@ I'm actually focused on final project of common core which is "ft_transcendence"
 ---
 
 ## 🧠 Actual learning
----
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
