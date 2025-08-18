@@ -26,3 +26,22 @@ My final goal is to be a MASTER of Blockchain and IA.
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills and Tools
+### Programming Languages
+![languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp&theme=light)
+> Getting by C and C++.
+<br>
+
+### Web
+![web](https://go-skill-icons.vercel.app/api/icons?i=html,css&theme=light)
+> Basic knowledge of Html and Css
+<br>
+
+### IDE && VCS
+![ide vcs](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,github&theme=light)
+> My main IDE is Visual Studio Code and i am confortable with VIM.
+>
+> I use GIT easily.
+
+### Others
+![others](https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light)
+> Basic knowledge of Docker especially with project INCEPTION.
