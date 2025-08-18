@@ -20,4 +20,5 @@ currents goals :
 </p>
 
 > C++ for the last project.
+>
 > Solidity for the last project and personnal projects.
