@@ -1,21 +1,12 @@
-## Hello, I'm Joan 👋
+# Hello, I'm Joan 👋
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+I'm a Computer Science student at [42](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://42.fr/&ved=2ahUKEwjjyoPFk7KOAxW9K_sDHfMHOwUQFnoECAwQAQ&usg=AOvVaw1Jn4i0LjOUW7B_zcaUisCq).
+
+I'm actually focused on final project of common core which is "ft_transcendence".
 ---
 
-I'm learning to code at [42](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://42.fr/&ved=2ahUKEwjjyoPFk7KOAxW9K_sDHfMHOwUQFnoECAwQAQ&usg=AOvVaw1Jn4i0LjOUW7B_zcaUisCq).
-
-I'm actually focused on penultimate projects of common core which is "ft_irc".
+## 🧠 Actual learning
 ---
-<!--
-**Sensei-Jolinkan/Sensei-Jolinkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
