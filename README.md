@@ -17,7 +17,7 @@ My final goal is to be a MASTER of Blockchain and IA.
 ## 🧠 Actual learning
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,solidity&theme=light" width="50"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,solidity&theme=light" width="90"/>
 </p>
 
 > C++ for the last project.
