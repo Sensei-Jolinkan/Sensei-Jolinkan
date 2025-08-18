@@ -1,5 +1,4 @@
-# Hello, I'm Joan
-<img src="gifs/HI.gif" alt="Hello" width="40"/>
+# Hello, I'm Joan <img src="gifs/HI.gif" alt="Hello" width="40"/>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
