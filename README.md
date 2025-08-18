@@ -1,4 +1,4 @@
-# Hello, I'm Joan  <img src="https://github.com/maitreverge/maitreverge/blob/master/assets/Hi.gif" width="29px">
+# Hello, I'm Joan  <img src="https://github.com/maitreverge/maitreverge/blob/master/assets/Hi.gif" width="40px">
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
