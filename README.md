@@ -11,6 +11,7 @@ currents goals :
  - do personnal projects to improve my knowledge
 
 <br>
+
 ## 🧠 Actual learning
 
 <p align="left">
@@ -19,5 +20,4 @@ currents goals :
 </p>
 
 > C++ for the last project.
-
-Solidity for the last project and personnal projects.
+> Solidity for the last project and personnal projects.
