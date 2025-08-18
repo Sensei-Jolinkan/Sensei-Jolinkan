@@ -1,5 +1,5 @@
 <p>
-  <span style="font-size: 32px; font-weight: bold;">Hello, I'm Joan</span>
+  <strong>Hello, I'm Joan</strong>
   <img src="https://github.com/jotudela/jotudela/raw/main/gifs/HI.gif" alt="Hello" width="50"/>
 </p>
 
