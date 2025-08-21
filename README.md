@@ -65,7 +65,7 @@ My final goal is to be a MASTER of Blockchain and IA.
  </a>
 </p>
 
-📌 <a href="https://github.com/jotudela/42-projects"><p>Summary of 42 common core projects</p></a>
+📌 [Summary of 42 common core projects](https://github.com/jotudela/42-projects)
 
 ## Other repos :
 
