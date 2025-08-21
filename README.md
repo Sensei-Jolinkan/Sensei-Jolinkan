@@ -51,6 +51,20 @@ My final goal is to be a MASTER of Blockchain and IA.
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+## Main 42 common core projects
+
+<p align="center">
+ <a href="https://github.com/jotudela/pipex">
+  <img src="imgs/pipex.png" alt="pipex">
+ </a>
+ <a href="https://github.com/jotudela/minishell">
+  <img src="imgs/minishell.png" alt="minishell">
+ </a>
+ <a href="https://github.com/jotudela/ft_irc">
+  <img src="imgs/ft_irc.png" alt="ft_irc">
+ </a>
+</p>
+
 ## Connect with me 📬
 - [x] My [Linkedin](https://www.linkedin.com/in/tudela-joan-735aa02a2/)
 - [x] My email joantudela66@gmail.com
