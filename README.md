@@ -51,7 +51,7 @@ My final goal is to be a MASTER of Blockchain and IA.
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Main 42 common core projects
+## Main 42 common core projects :
 
 <p align="center">
  <a href="https://github.com/jotudela/pipex">
@@ -64,6 +64,24 @@ My final goal is to be a MASTER of Blockchain and IA.
   <img src="imgs/ft_irc.png" alt="ft_irc" width=250>
  </a>
 </p>
+
+📌 ![Summary of common core projects](https://github.com/jotudela/42-projects)
+
+## Other repos :
+
+<p align="center">
+ <a href="https://github.com/jotudela/inception">
+  <img src="imgs/inception.png" alt="inception" width=250>
+ </a>
+ <a href="https://github.com/jotudela/philosophers">
+  <img src="imgs/philo.png" alt="philosophers" width=250>
+ </a>
+ <a href="https://github.com/jotudela/cub3D">
+  <img src="imgs/cub3D.png" alt="cub3D" width=250>
+ </a>
+</p>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Connect with me 📬
 - [x] My [Linkedin](https://www.linkedin.com/in/tudela-joan-735aa02a2/)
