@@ -55,7 +55,7 @@ My final goal is to be a MASTER of Blockchain and IA.
 
 <p align="center">
  <a href="https://github.com/jotudela/pipex">
-  <img src="imgs/pipex.png" alt="pipex" width=100>
+  <img src="imgs/pipex.png" alt="pipex" width=300>
  </a>
  <a href="https://github.com/jotudela/minishell">
   <img src="imgs/minishell.png" alt="minishell" width=100>
