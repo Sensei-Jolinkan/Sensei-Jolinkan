@@ -67,8 +67,7 @@ My final goal is to be a MASTER of Blockchain and IA.
 
 📌 [Summary of 42 common core projects](https://github.com/jotudela/42-projects)
 
-
-## Other repos :
+## Other repos :
 
 <p align="center">
  <a href="https://github.com/jotudela/inception">
